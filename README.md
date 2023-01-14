@@ -16,3 +16,4 @@ This is a repository of my Minecraft 1.8.9 configurations configured for Hypixel
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/116705410/212479235-cf6fb7c9-3b80-412d-8a80-b95327513bdd.png)
+![image](https://user-images.githubusercontent.com/116705410/212482600-b9fb5ad2-c5ed-4ce1-87b9-e48f74408872.png)
