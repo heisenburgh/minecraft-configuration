@@ -1,5 +1,6 @@
 # My Minecraft Configuration
 This is a repository of my Minecraft 1.8.9 configurations configured for Hypixel minigames and leaderboard sweating. All mods are Hypixel legal and the Resource Pack used is Midnight 32x.
+The configurations are extremely minimalistic, as I like all my things minimalistic and simple.
 
 ## Installation
 - [ ] The installation for this is simple, either clone this repository through:
